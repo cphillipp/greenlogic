@@ -57,7 +57,7 @@ $class = ($footerwidgets == '0' ? 'noborder' : 'normal'); ?>
                    
 				    <?php if(!empty($copyright)) : ?>
 					
-					<!--Powered by <a href="</?php echo $copyrightlink; ?>"></?php echo $copyright; ?></a>-->
+					All Rights Reserved<!--Powered by <a href="</?php echo $copyrightlink; ?>"></?php echo $copyright; ?></a>-->
 					
 					<?php endif; ?>
 					
